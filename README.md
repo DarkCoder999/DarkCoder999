@@ -1,4 +1,4 @@
-👋 Hi, I’m B Raghavan, a sophomore persuing Computer Science and Engineering in NIT Trichy.
+👋 Hi, I’m B Raghavan, a junior persuing Computer Science and Engineering in NIT Trichy.
 </br>👀 I’m interested in Deep Learning, Machine Learning, Web Development and Competitive Programming.
 </br>🌱 I’m currently gaining knowledge in Transformer-based models in solving applications in NLP and CV.
 </br>💞️ I’m looking to collaborate on ML research & Web development projects.
