@@ -1,7 +1,7 @@
 👋 Hi, I’m B Raghavan, a sophomore persuing Computer Science and Engineering in NIT Trichy.
-</br>👀 I’m interested in Web Development, Competitive Programming, and AI/ML.
-</br>🌱 I’m currently gaining knowledge in Deep Learning, MERN Stack, C++ and advanced Python.
-</br>💞️ I’m looking to collaborate on ML & Web development projects.
+</br>👀 I’m interested in Deep Learning, Machine Learning, Web Development and Competitive Programming.
+</br>🌱 I’m currently gaining knowledge in Transformer-based models in solving applications in NLP and CV.
+</br>💞️ I’m looking to collaborate on ML research & Web development projects.
 
 ---
 
